@@ -1,0 +1,1538 @@
+{
+  "anus" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "arse" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "arsehole" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "ass" {
+        "severity": 0,
+        "categories": ["sexual","insult"]
+},
+  "ass-hat" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "ass-pirate" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "assbag" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "assbandit" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "assbanger" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "assbite" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "assclown" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "asscock" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "asscracker" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "assface" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "assfuck" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "assfucker" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "assgoblin" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "asshat" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "asshead" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "asshole" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "asshopper" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "assjacker" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "asslick" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "asslicker" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "assmonkey" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "assmunch" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "assmuncher" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "assnigger" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "asspirate" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "assshit" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "assshole" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "asssucker" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "asswad" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "asswipe" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "bampot" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "bastard" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "beaner" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "beastial" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "beastiality" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "beastility" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "bestial" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "bestiality" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "bitch" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "bitchass" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "bitcher" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "bitchin" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "bitching" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "bitchtit" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "bitchy" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "blow job" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "blowjob" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "bollocks" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "bollox" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "boner" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "bullshit" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "butt plug" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "camel toe" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "choad" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "chode" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "clit" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "clitface" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "clitfuck" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "clusterfuck" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "cock" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cockbite" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "cockburger" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "cockface" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "cockfucker" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "cockhead" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "cockmonkey" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "cocknose" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "cocknugget" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "cockshit" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "cocksuck" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cocksucked" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cocksucker" {
+        "severity": 0,
+        "categories": ["discriminatory","sexual"]
+},
+  "cocksucking" {
+        "severity": 0,
+        "categories": ["sexual","discriminatory"]
+},
+  "cocksucks" {
+        "severity": 0,
+        "categories": ["sexual","discriminatory"]
+},
+  "coochie" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "coochy" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cooter" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cum" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cumbubble" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "cumdumpster" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cummer" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cumming" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cumshot" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cumslut" {
+        "severity": 0,
+        "categories": ["sexual"
+},"insult"]
+},
+  "cumtart" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "cunillingus" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cunnie" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cunnilingus" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cunt" {
+        "severity": 0,
+        "categories": ["insult","sexual"]
+},
+  "cuntface" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "cunthole" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cuntlick" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cuntlicker" {
+        "severity": 0,
+        "categories": ["sexual","discriminatory"]
+},
+  "cuntlicking" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cuntrag" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "cuntslut" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "cyberfuc" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cyberfuck" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cyberfucked" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cyberfucker" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "cyberfucking" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "dago" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "damn" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "deggo" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "dick" {
+        "severity": 0,
+        "categories": ["sexual","insult"]
+},
+  "dickbag" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "dickbeaters" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "dickface" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "dickfuck" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "dickhead" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "dickhole" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "dickjuice" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "dickmilk" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "dickslap" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "dickwad" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "dickweasel" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "dickweed" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "dickwod" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "dildo" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "dink" {
+        "severity": 0,
+        "categories": ["insult","sexual"]
+},
+  "dipshit" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "doochbag" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "dookie" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "douche" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "douche-fag" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "douchebag" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "douchewaffle" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "dumass" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "dumb ass" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "dumbass" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "dumbfuck" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "dumbshit" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "dumshit" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "ejaculate" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "ejaculated" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "ejaculates" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "ejaculating" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "ejaculation" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fag" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "fagbag" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "fagfucker" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "fagging" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "faggit" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "faggot" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "faggotcock" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "faggs" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "fagot" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "fags" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "fagtard" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "fart" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "farted" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "farting" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "farty" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "fatass" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "felatio" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fellatio" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "feltch" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fingerfuck" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fingerfucked" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fingerfucker" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fingerfucking" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fingerfucks" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fistfuck" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fistfucked" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fistfucker" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fistfucking" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "flamer" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "fuck" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fuckass" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "fuckbag" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "fuckboy" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "fuckbrain" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "fuckbutt" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fucked" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fucker" {
+        "severity": 0,
+        "categories": ["sexual","insult"]
+},
+  "fuckersucker" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "fuckface" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "fuckhead" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fuckhole" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "fuckin" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fucking" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fuckme" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fucknut" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "fucknutt" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "fuckoff" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "fuckstick" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "fucktard" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "fuckup" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "fuckwad" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "fuckwit" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "fuckwitt" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "fudgepacker" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "fuk" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "gangbang" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "gangbanged" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "goddamn" {
+        "severity": 0,
+        "categories": ["inappropriate","blasphemy"]
+},
+  "goddamnit" {
+        "severity": 0,
+        "categories": ["inappropriate","blasphemy"]
+},
+  "gooch" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "gook" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "gringo" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "guido" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "handjob" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "hardcoresex" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "heeb" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "hell" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "ho" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "hoe" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "homo" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "homodumbshit" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "honkey" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "horniest" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "horny" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "hotsex" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "humping" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "jackass" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "jap" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "jigaboo" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "jism" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "jiz" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "jizm" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "jizz" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "jungle bunny" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "junglebunny" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "kike" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "kock" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "kondum" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "kooch" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "kootch" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "kum" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "kumer" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "kummer" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "kumming" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "kums" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "kunilingus" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "kunt" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "kyke" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "lezzie" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "lust" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "lusting" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "mcfagget" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "mick" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "minge" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "mothafuck" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "mothafucka" {
+        "severity": 0,
+        "categories": ["sexual","insult"]
+},
+  "mothafuckaz" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "mothafucked" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "mothafucker" {
+        "severity": 0,
+        "categories": ["sexual","insult"]
+},
+  "mothafuckin" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "mothafucking" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "mothafucks" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "motherfuck" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "motherfucked" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "motherfucker" {
+        "severity": 0,
+        "categories": ["sexual","insult"]
+},
+  "motherfuckin" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "motherfucking" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "muff" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "muffdiver" {
+        "severity": 0,
+        "categories": ["discriminatory","sexual"]
+},
+  "munging" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "negro" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "nigga" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "nigger" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "niglet" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "nut sack" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "nutsack" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "orgasim" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "orgasm" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "paki" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "panooch" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "pecker" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "peckerhead" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "penis" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "penisfucker" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "penispuffer" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "phonesex" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "phuk" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "phuked" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "phuking" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "phukked" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "phukking" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "phuks" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "phuq" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "pis" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "pises" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "pisin" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "pising" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "pisof" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "piss" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "pissed" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "pisser" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "pisses" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "pissflaps" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "pissin" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "pissing" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "pissoff" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "polesmoker" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "pollock" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "poon" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "poonani" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "poonany" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "poontang" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "porch monkey" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "porchmonkey" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "porn" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "porno" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "pornography" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "pornos" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "prick" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "punanny" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "punta" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "pusies" {
+        "severity": 0,
+        "categories": ["sexual", "insult"]
+},
+  "pussies" {
+        "severity": 0,
+        "categories": ["sexual","insult"]
+},
+  "pussy" {
+        "severity": 0,
+        "categories": ["sexual","insult"]
+},
+  "pussylicking" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "pusy" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "puto" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "renob" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "rimjob" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "ruski" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "sandnigger" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "schlong" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "scrote" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "shit" {
+        "severity": 0,
+        "categories": ["sexual","inappropriate"]
+},
+  "shitass" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "shitbag" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "shitbagger" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "shitbrain" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "shitbreath" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "shitcunt" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "shitdick" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "shited" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "shitface" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "shitfaced" {
+        "severity": 0,
+        "categories": ["inappropriate","insult"]
+},
+  "shitfull" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "shithead" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "shithole" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "shithouse" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "shiting" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "shitspitter" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "shitstain" {
+        "severity": 0,
+        "categories": ["inappropriate","insult"]
+},
+  "shitted" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "shitter" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "shittiest" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "shitting" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "shitty" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "shity" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "shiz" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "shiznit" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "skank" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "skeet" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "skullfuck" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "slut" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "slutbag" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "sluts" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "smeg" {
+        "severity": 0,
+        "categories": ["inappropriate"]
+},
+  "smut" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "snatch" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "spic" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "spick" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "splooge" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "spunk" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "tard" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "testicle" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "thundercunt" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "tit" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "tits" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "titfuck" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "tittyfuck" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "twat" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "twatlips" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "twatwaffle" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "unclefucker" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "va-j-j" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "vag" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "vagina" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "vjayjay" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "wank" {
+        "severity": 0,
+        "categories": ["sexual"]
+},
+  "wetback" {
+        "severity": 0,
+        "categories": ["discriminatory"]
+},
+  "whore" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "whorebag" {
+        "severity": 0,
+        "categories": ["insult"]
+},
+  "whoreface" {
+        "severity": 0,
+        "categories": ["insult"]
+}
